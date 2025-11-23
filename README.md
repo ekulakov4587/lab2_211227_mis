@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Site sliki od aplikacijata se vo folderot sliki
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
